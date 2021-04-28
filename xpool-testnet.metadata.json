@@ -1,0 +1,7 @@
+{
+  "name": "Irish Deep Value",
+  "description": "Professionally managed cloud based stake pool.",
+  "ticker": "DFV",
+  "homepage": "https://www.hidden-water.com/",
+  "extended": "https://hidden-water.s3.us-east-2.amazonaws.com/xpool-testnet.extended.json"
+}
